@@ -58,7 +58,7 @@ Video link:
 
 ### 3️⃣ **Colab 3: DPO Reinforcement Learning**
 **File**: `colab3_dpo_reinforcement_learning.ipynb`
-Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Colab link: https://colab.research.google.com/drive/1jEuyL-hM7LkH59VpIMka7wUyLbA0diwS?usp=sharing
 Video link: 
 **What it covers:**
 - Direct Preference Optimization (DPO)
