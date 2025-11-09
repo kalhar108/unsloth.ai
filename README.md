@@ -11,8 +11,8 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 
 ### 1️⃣ **Colab 1: Full Fine-tuning with SmolLM2-135M**
 **File**: `colab1_full_finetuning_smollm2.ipynb`
-Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
-Video link: 
+- Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+- Video link: 
 **What it covers:**
 - Full fine-tuning (all parameters updated, not LoRA)
 - Using SmolLM2-135M (135 million parameters)
@@ -38,7 +38,7 @@ Video link:
 
 ### 2️⃣ **Colab 2: LoRA Fine-tuning with SmolLM2-135M**
 **File**: `colab2_lora_finetuning_smollm2.ipynb`
-Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+- Colab link: https://colab.research.google.com/drive/1uBB4oEEw8ufPsXrQq8xDd4XtwkEZhR4E?usp=sharing
 Video link: 
 **What it covers:**
 - LoRA (Low-Rank Adaptation) parameter-efficient fine-tuning
