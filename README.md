@@ -1,3 +1,5 @@
+# Name: Kalhar Mayurbhai Patel
+# SJSU ID: 019140511
 # Unsloth AI: Complete Tutorial Series
 ## 5 Colab Notebooks for Modern LLM Training
 
@@ -50,14 +52,6 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 - Adapter architecture and weight matrices
 - When to use LoRA (7B+ models, limited GPU)
 
-**Video Recording Tips:**
-- Compare trainable parameters: Full FT vs LoRA
-- Explain LoRA matrices visually (if possible)
-- Show target_modules selection strategy
-- Demonstrate adapter saving (small file size)
-- Show model merging process
-- Compare results with Colab 1
-
 ---
 
 ### 3️⃣ **Colab 3: DPO Reinforcement Learning**
@@ -77,13 +71,6 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 - Beta temperature parameter
 - Alignment for helpfulness and harmlessness
 
-**Video Recording Tips:**
-- Explain preference pairs clearly (chosen vs rejected)
-- Show how DPO updates model probabilities
-- Demonstrate dataset formatting from HH-RLHF
-- Run inference and show improved responses
-- Compare aligned vs non-aligned outputs
-- Explain DPO loss mathematically (simplified)
 
 ---
 
@@ -104,13 +91,6 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 - Multiple sampling for reasoning diversity
 - Answer extraction and verification
 
-**Video Recording Tips:**
-- Explain GRPO process with diagrams
-- Show how math problems are verified automatically
-- Demonstrate multiple generations (4 attempts per problem)
-- Show reward function logic
-- Compare correct vs incorrect reasoning chains
-- Discuss connection to o1, o3, R1 models
 
 ---
 
@@ -131,13 +111,6 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 - Training hyperparameters (lower LR, more epochs)
 - Real-world examples (BloombergGPT, CodeLlama, BioGPT)
 
-**Video Recording Tips:**
-- Explain the three-stage pipeline (pretrain → continue → finetune)
-- Show domain corpus creation
-- Demonstrate code completion before/after
-- Compare base model vs domain-adapted model
-- Discuss real-world applications (medical, legal, finance)
-- Explain when to use continued pretraining
 
 ---
 
@@ -325,22 +298,6 @@ These notebooks are provided for educational purposes.
 
 ---
 
-## 📞 Support
-
-### Questions?
-- Unsloth Discord: [Check GitHub for invite]
-- GitHub Issues: https://github.com/unslothai/unsloth/issues
-- HuggingFace Forums
-
-### Found a Bug?
-- Open an issue with:
-  - Notebook name
-  - Error message
-  - Steps to reproduce
-  - GPU type and Colab tier
-
----
-
 ## 🎯 Next Steps After Completing All Notebooks
 
 1. **Try Larger Models**
@@ -416,63 +373,3 @@ Expected performance improvements (approximate):
 
 ---
 
-## 🎬 Upload Checklist
-
-Before uploading your videos:
-
-- [ ] Video quality check (1080p recommended)
-- [ ] Audio is clear and balanced
-- [ ] Code is visible (large font)
-- [ ] No sensitive information shown
-- [ ] Title includes "Unsloth" and notebook number
-- [ ] Description includes notebook link
-- [ ] Tags include: AI, ML, LLM, Fine-tuning, Unsloth
-- [ ] Thumbnail is professional and clear
-- [ ] Add timestamps in description
-- [ ] Include GitHub/Colab links
-
-### Suggested Video Titles:
-1. "Unsloth Tutorial #1: Full Fine-tuning SmolLM2-135M | Complete Walkthrough"
-2. "Unsloth Tutorial #2: LoRA Fine-tuning Explained | Parameter Efficient Training"
-3. "Unsloth Tutorial #3: DPO Alignment | Human Preference Learning"
-4. "Unsloth Tutorial #4: GRPO Reasoning Models | Like OpenAI o1 & DeepSeek-R1"
-5. "Unsloth Tutorial #5: Continued Pretraining | Domain Adaptation Guide"
-
----
-
-## 📝 Assignment Completion Guide
-
-### For Academic Submission:
-
-1. **Video Requirements**
-   - Record all 5 notebooks
-   - Upload to YouTube (public or unlisted)
-   - Include Colab links in video descriptions
-
-2. **Documentation**
-   - This README serves as your overview
-   - Each notebook has built-in documentation
-   - Include all .ipynb files
-
-3. **Submission Package**
-   - 5 Jupyter notebooks (.ipynb)
-   - 5 video links (YouTube/Drive)
-   - This README.md
-   - Screenshots of successful runs (optional)
-
-4. **Evaluation Points**
-   - Code runs successfully ✓
-   - Videos show clear walkthrough ✓
-   - Explanations are accurate ✓
-   - Different techniques compared ✓
-   - All 5 notebooks completed ✓
-
----
-
-**Ready to get started? Open Colab 1 and begin your Unsloth journey! 🚀**
-
----
-
-*Last Updated: 2025*
-*Created for educational purposes using Unsloth.ai*
-*Models used: SmolLM2-135M (Instruction and Base variants)*
