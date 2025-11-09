@@ -11,7 +11,8 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 
 ### 1️⃣ **Colab 1: Full Fine-tuning with SmolLM2-135M**
 **File**: `colab1_full_finetuning_smollm2.ipynb`
-
+Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Video link: 
 **What it covers:**
 - Full fine-tuning (all parameters updated, not LoRA)
 - Using SmolLM2-135M (135 million parameters)
@@ -37,7 +38,8 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 
 ### 2️⃣ **Colab 2: LoRA Fine-tuning with SmolLM2-135M**
 **File**: `colab2_lora_finetuning_smollm2.ipynb`
-
+Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Video link: 
 **What it covers:**
 - LoRA (Low-Rank Adaptation) parameter-efficient fine-tuning
 - Same dataset as Colab 1 for direct comparison
@@ -56,7 +58,8 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 
 ### 3️⃣ **Colab 3: DPO Reinforcement Learning**
 **File**: `colab3_dpo_reinforcement_learning.ipynb`
-
+Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Video link: 
 **What it covers:**
 - Direct Preference Optimization (DPO)
 - Preference dataset format (prompt, chosen, rejected)
@@ -76,7 +79,8 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 
 ### 4️⃣ **Colab 4: GRPO Reasoning Model Training**
 **File**: `colab4_grpo_reasoning_model.ipynb`
-
+Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Video link: 
 **What it covers:**
 - Group Relative Policy Optimization (GRPO)
 - Training reasoning models (like DeepSeek-R1, OpenAI o1)
@@ -96,7 +100,8 @@ This repository contains 5 comprehensive Colab notebooks demonstrating different
 
 ### 5️⃣ **Colab 5: Continued Pretraining**
 **File**: `colab5_continued_pretraining.ipynb`
-
+Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Video link: 
 **What it covers:**
 - Continued pretraining for domain adaptation
 - Teaching models new languages or domains
