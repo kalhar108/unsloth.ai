@@ -100,7 +100,7 @@ Video link:
 
 ### 5️⃣ **Colab 5: Continued Pretraining**
 **File**: `colab5_continued_pretraining.ipynb`
-Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Colab link: https://colab.research.google.com/drive/1QkYEWg-a523CnffZnxqE6nYfchnPjNd5?usp=sharing
 Video link: 
 **What it covers:**
 - Continued pretraining for domain adaptation
