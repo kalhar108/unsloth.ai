@@ -79,7 +79,7 @@ Video link:
 
 ### 4️⃣ **Colab 4: GRPO Reasoning Model Training**
 **File**: `colab4_grpo_reasoning_model.ipynb`
-Colab link: https://colab.research.google.com/drive/14Ac_p4RaGY0XuFpn_yFM-lzcBzF7KNan?usp=sharing
+Colab link: https://colab.research.google.com/drive/1U1LavMy0AhK4JGEStyBTw_hTIlRkkO8M?usp=sharing
 Video link: 
 **What it covers:**
 - Group Relative Policy Optimization (GRPO)
